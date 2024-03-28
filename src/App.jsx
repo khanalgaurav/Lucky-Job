@@ -1,13 +1,11 @@
-import FilterHeader from "./components/FilterHeader/FilterHeader"
-import Navbar from "./components/Navbar/Navbar"
+import Home from "./pages/Home"
 
 function App() {
   
 
   return (
     <>
-      <Navbar/>
-      <FilterHeader/>
+      <Home/>
     </>
   )
 }
