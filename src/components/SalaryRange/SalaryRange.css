@@ -1,0 +1,9 @@
+.slider .thumb{
+    background-color: skyblue;
+    border-radius: 50%;
+    border: white;
+    height: 20px;
+    width: 20px;
+    top: -180%;
+    
+}

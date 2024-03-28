@@ -5,7 +5,7 @@ import { IoMdNotificationsOutline } from "react-icons/io";
 const Navbar = () => {
   return (
     <header className='bg-black text-white border-b-2 border-slate-600'>
-        <nav className=' flex p-0 items-center justify-between mx-10 '>
+        <nav className=' flex items-center justify-between mx-10'>
             <h1 className='font-bold text-xl'>LuckyJob</h1>
             <ul className='flex gap-5'>
                 <li className='py-6 px-2'>Find Job</li>
